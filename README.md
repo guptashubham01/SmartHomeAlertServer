@@ -1,5 +1,5 @@
 # Smart Home Alert Server Code 
-
+##REST calls:
 Get calls: http://finalproject.mybluemix.net
 
 
