@@ -22,6 +22,7 @@ app.get('/', (req, res) => {
   db.collection('orderA').find().toArray((err, result) => {
     if (err) return console.log(err)
     // res.render('index.ejs', {quotes: result})
+  console.log('GET call initiated');
   res.json({ result });
   })
 })

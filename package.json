@@ -18,5 +18,9 @@
   },
   "devDependencies": {
     "nodemon": "^1.8.1"
-  }
+  },
+  "repository" : { 
+   "type" : "git",
+   "url" : "https://github.com/shubham0892/SmartHomeAlertServer"
+ }
 }
